@@ -7,9 +7,9 @@
 
 # Site settings
 title: Communité
-email: info@communite.com
+email: info@communite.co
 description: > # this means to ignore newlines until "baseurl:"
-  A new strategic communications agency with a tailored approach to brand marketing and communications.
+  An integrated communications agency focused on building brand communities.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://communite.com" # the base hostname & protocol for your site
